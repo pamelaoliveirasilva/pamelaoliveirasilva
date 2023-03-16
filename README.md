@@ -1,5 +1,5 @@
 ### Olá, me chamo Pâmela
-## Bem vinco ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil GitHub 👋
 
 Atualmente sou Desenvolvedora Web Full stack em formação na Cubos Academy e Graduanda em Engenharia da Computação na FMU.
 
